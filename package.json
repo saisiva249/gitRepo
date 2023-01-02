@@ -1,0 +1,24 @@
+{
+  "name": "gitpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run dummy",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dummy": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saisiva249/gitRepo.git"
+  },
+  "author": "VenkataSai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saisiva249/gitRepo/issues"
+  },
+  "homepage": "https://github.com/saisiva249/gitRepo#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
